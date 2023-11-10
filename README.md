@@ -4,7 +4,7 @@ I'm Brandon (he/they) and I'm a solid state chemist at the University of Wiscons
 
 ## My projects
 
-### [Electrum.jl](https://githhub.com/brainandforce/Electrum.jl)
+### [Electrum.jl](https://github.com/brainandforce/Electrum.jl)
 
 Electrum.jl is a package that provides types, functions, and other tools for working with data associated with crystal structures, including unit cell basis vectors, atomic positions, associated grids of data, and more. It provides tools such as data import from commonly used computational chemistry software (currently supporting abinit, VASP, and LAMMPS), properly scaled Fourier transforms and gradients, and more.
 
