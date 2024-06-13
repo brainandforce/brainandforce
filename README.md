@@ -1,6 +1,6 @@
 ## What's poppin'?
 
-I'm Brandon (he/they) and I'm a computational chemist at the University of Wisconsin-Madison.
+I'm Brandon (he/they) and I'm a graduate student doing computational chemistry at the University of Wisconsin-Madison.
 
 ## My projects
 
@@ -29,6 +29,10 @@ The broader community is based around [bivector.net](https://bivector.net) and y
 ### Mechanical keyboards
 
 While I'm not involved in any software projects for mechanical keyboards at the moment, I am an enthusiast who has way too many keyboards to deal with. If you'd like to contribute to the software side of the mechanical keyboard community, I'd strongly suggest [ZMK](https://zmk.dev/), a Bluetooth-capable firmware based on Zephyr RTOS written in part by [a friend of mine](https://github.com/nicell).
+
+## Support me
+
+Much of the software development I do is either part of my work as a graduate student or as a hobby. **I don't expect donations or payment for my hobby projects,** but if you're so inclined, [my Ko-Fi is here.](https://ko-fi.com/brainandforce) 
 
 <!--
 **brainandforce/brainandforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
